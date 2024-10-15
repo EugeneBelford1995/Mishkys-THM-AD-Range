@@ -5,7 +5,7 @@ TryHackMe only allows one VM, so I created a duct tape solution; one DC with an 
 
 This setup stresses Name Poisoning, ASREPRoasting, share drive enumeration, scraping share drives for creds, password spraying, AD & NTFS DACL enumertaion & abuse, and credentail dumping.
 
-The Zip files go on the share drive under C:\Share\ManageAD & C:\Share\AdminStuff. Notes.txt goes C:\Share. Generate-TrafficII.ps1 goes under C:\Scripts.
+The Zip files go on the share drive under C:\Share\ManageAD & C:\Share\AdminStuff. Notes.txt goes in C:\Share. Generate-TrafficII.ps1 goes under C:\Scripts.
 
 Group Policy has to be set as shown in the *.jpg as some Domain Users have to be able to login to the DC for the duct tape solution to work.
 
