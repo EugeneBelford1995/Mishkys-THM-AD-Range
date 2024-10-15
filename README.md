@@ -10,3 +10,7 @@ The Zip files go on the share drive under C:\Share\ManageAD & C:\Share\AdminStuf
 Group Policy has to be set as shown in the *.jpg as some Domain Users have to be able to login to the DC for the duct tape solution to work.
 
 It's a dumb solution, but it's just about the only way to put it on TryHackMe. If you want to use a more elegate solution than check out Mishky's AD Range in our other repo.
+
+The TryHackMe room is here: https://tryhackme.com/r/room/mishkysadrange
+
+The writeup on how to create a TryHackMe room is here: https://happycamper84.medium.com/creating-a-room-on-tryhackme-4b9f3aefb193
